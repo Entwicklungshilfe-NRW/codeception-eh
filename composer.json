@@ -1,0 +1,13 @@
+{
+    "name": "entwicklungshilfe/codeception-eh",
+    "description": "Testing for offical eh webdesign",
+    "require": {
+        "codeception/codeception": "^2.1"
+    },
+    "authors": [
+        {
+            "name": "Entwicklungshilfe NRW",
+            "email": "kontakt@entwicklungshilfe.nrw"
+        }
+    ]
+}
